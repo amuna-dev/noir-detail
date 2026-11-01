@@ -199,10 +199,10 @@ const SITE = {
 
   /* --- Услуги на главной. size: lg — большая карточка, accent — карточка без фото --- */
   services: [
-    { id: 'ceramic', name: 'Керамическое покрытие', desc: 'Твёрдый слой поверх лака: блеск, гидрофобный эффект и защита от реагентов до 5 лет.', price: 350, img: 'images/service2.jpg', icon: 'shield', size: 'lg' },
-    { id: 'polish', name: 'Полировка кузова', desc: 'Убираем мелкие царапины и голограммы, возвращаем лаку глубину цвета.', price: 180, img: 'images/service1.jpg', icon: 'sparkle' },
-    { id: 'interior', name: 'Химчистка салона', desc: 'Кожа, ткань, потолок и багажник без запахов и следов.', price: 120, img: 'images/service3.jpg', icon: 'seat' },
-    { id: 'ppf', name: 'Защитная плёнка PPF', desc: 'Невидимая плёнка на капот, бампер и зоны риска. Защищает от сколов.', price: 900, img: 'images/service4.jpg', icon: 'layers' },
+    { id: 'ceramic', name: 'Керамическое покрытие', desc: 'Твёрдый слой поверх лака: блеск, гидрофобный эффект и защита от реагентов до 5 лет.', price: 350, img: 'images/service2.webp', icon: 'shield', size: 'lg' },
+    { id: 'polish', name: 'Полировка кузова', desc: 'Убираем мелкие царапины и голограммы, возвращаем лаку глубину цвета.', price: 180, img: 'images/service1.webp', icon: 'sparkle' },
+    { id: 'interior', name: 'Химчистка салона', desc: 'Кожа, ткань, потолок и багажник без запахов и следов.', price: 120, img: 'images/service3.webp', icon: 'seat' },
+    { id: 'ppf', name: 'Защитная плёнка PPF', desc: 'Невидимая плёнка на капот, бампер и зоны риска. Защищает от сколов.', price: 900, img: 'images/service4.webp', icon: 'layers' },
     { id: 'complex', name: 'Комплексный детейлинг', desc: 'Кузов, салон и керамика за один визит. Выгоднее, чем заказывать работы по отдельности.', price: 590, icon: 'star', size: 'accent' },
   ],
 
@@ -224,10 +224,10 @@ const SITE = {
 
   /* --- Галерея --- */
   gallery: [
-    { src: 'images/car1.jpg', label: 'Работа №1', alt: 'Автомобиль после полировки и нанесения керамики' },
-    { src: 'images/car2.jpg', label: 'Работа №2', alt: 'Глубокий блеск кузова после детейлинга' },
-    { src: 'images/car3.jpg', label: 'Работа №3', alt: 'Автомобиль с защитной плёнкой на передней части' },
-    { src: 'images/studio.jpg', label: 'Наша студия', alt: 'Закрытый бокс студии NOIR Detail с профессиональным светом' },
+    { src: 'images/car1.webp', label: 'Работа №1', alt: 'Автомобиль после полировки и нанесения керамики' },
+    { src: 'images/car2.webp', label: 'Работа №2', alt: 'Глубокий блеск кузова после детейлинга' },
+    { src: 'images/car3.webp', label: 'Работа №3', alt: 'Автомобиль с защитной плёнкой на передней части' },
+    { src: 'images/studio.webp', label: 'Наша студия', alt: 'Закрытый бокс студии NOIR Detail с профессиональным светом' },
   ],
 
   /* --- FAQ --- */
